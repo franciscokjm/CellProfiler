@@ -1,5 +1,5 @@
 # CellProfiler
-Installation guide of the CellProfiler on Linux Mint 21.1 with python > 3.9 and conda 4.12.0.
+Installation steps of the CellProfiler on Linux Mint 21.1 with python > 3.9 and conda 4.12.0.
 _______________________________________________________________________________________________
 
 conda create -n py39 python=3.9  
