@@ -29,4 +29,7 @@ sudo apt-get install -y \
                         libwebkit2gtk-4.0-dev \  
                         libxtst-dev   
 
+wget https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-20.04/wxPython-4.1.0-cp38-cp38-linux_x86_64.whl
+pip3 install wxPython-4.1.0-cp38-cp38-linux_x86_64.whl
+
 pip install CellProfiler  
